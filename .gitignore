@@ -1,0 +1,11 @@
+countdown/node_modules/**/*
+countdown/.expo/*
+countdown/npm-debug.*
+countdown/*.jks
+countdown/*.p8
+countdown/*.p12
+countdown/*.key
+countdown/*.mobileprovision
+countdown/*.orig.*
+countdown/web-build/
+countdown/web-report/
